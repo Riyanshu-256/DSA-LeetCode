@@ -72,7 +72,7 @@ Each folder contains clean Java solutions with appropriate file naming conventio
 
 ## ✍️ Author
 
-- **Name**: Sourav Kumar
+- **Name**: Riyanshu Sharma
 - **GitHub Profile**: [@Sharmariyanshu](https://github.com/Sharmariyanshu)
 - **LinkedIn**: [Riyanshu Sharma](https://linkedin.com/in/riyanshu-sharma-b1b216329)
 
