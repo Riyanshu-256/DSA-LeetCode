@@ -1,6 +1,6 @@
 package ARRAY;
 
-public class P01_Two_sum {
+public class P01_Two_sum_2 {
     
 }
 class Solution {
