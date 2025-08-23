@@ -1,6 +1,6 @@
 package ARRAY;
 
-public class SplitArraySum {
+public class P04_SplitArraySum {
     public int splitArray(int[] nums, int k) {
         int left = 0, right = 0;
         for (int num : nums) {
