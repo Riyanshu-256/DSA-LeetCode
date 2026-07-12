@@ -44,6 +44,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0100-same-tree) |
 | [0542-01-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0542-01-matrix) |
 ## Matrix
 |  |
@@ -79,12 +80,15 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
