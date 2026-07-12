@@ -38,6 +38,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0542-01-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0542-01-matrix) |
 | [0641-design-circular-deque](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0705-design-hashset) |
@@ -55,6 +56,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0705-design-hashset](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0705-design-hashset) |
 ## Linked List
 |  |
