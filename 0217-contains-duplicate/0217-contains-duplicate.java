@@ -10,8 +10,8 @@ class Solution {
             map.put(num, map.getOrDefault(num, 0) + 1);
         }
 
-        for(int key : map.keySet()){
-            if(map.get(key) >= 2){
+        for (int freq : map.values()) {
+            if (freq >= 2) {
                 return true;
             }
         }
