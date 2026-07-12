@@ -30,6 +30,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,6 +60,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | ------- |
 | [0001-two-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0705-design-hashset](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0705-design-hashset) |
 ## Linked List
 |  |
@@ -77,6 +79,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0641-design-circular-deque](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0641-design-circular-deque) |
 ## Stack
 |  |
@@ -107,4 +110,8 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0217-contains-duplicate) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
