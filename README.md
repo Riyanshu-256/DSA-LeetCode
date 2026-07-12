@@ -39,6 +39,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0542-01-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0542-01-matrix) |
 | [0641-design-circular-deque](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0705-design-hashset) |
@@ -57,6 +58,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0705-design-hashset](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0705-design-hashset) |
 ## Linked List
 |  |
@@ -101,4 +103,8 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0100-same-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
