@@ -56,6 +56,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0111-minimum-depth-of-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0542-01-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0542-01-matrix) |
+| [0965-univalued-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0965-univalued-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -108,6 +109,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0404-sum-of-left-leaves](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0965-univalued-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -121,6 +123,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0145-binary-tree-postorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0965-univalued-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -136,6 +139,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0404-sum-of-left-leaves](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0965-univalued-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0965-univalued-binary-tree) |
 ## Sorting
 |  |
 | ------- |
