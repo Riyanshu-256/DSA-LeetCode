@@ -106,6 +106,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0145-binary-tree-postorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -118,6 +119,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0144-binary-tree-preorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -131,6 +133,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0145-binary-tree-postorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -156,4 +159,8 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
