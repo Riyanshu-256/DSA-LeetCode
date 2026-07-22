@@ -15,28 +15,68 @@
  */
 class Solution {
     public boolean isSymmetric(TreeNode root) {
-        if (root == null) {
-            return true;
-        }
+        // code here
 
-        return isMirror(root.left, root.right);
+        if(root == null) return true;
+
+        return checkSymmentry(root.left, root.right);
     }
 
-    private boolean isMirror(TreeNode left, TreeNode right) {
+    public boolean checkSymmentry(TreeNode left, TreeNode right){
 
-        if (left == null && right == null) {
-            return true;
-        }
+        if(left == null && right == null) return true;
+        if(left == null || right == null) return false;
 
-        if (left == null || right == null) {
-            return false;
-        }
+        if(left.val != right.val) return false;
 
-        if (left.val != right.val) {
-            return false;
-        }
-
-        return isMirror(left.left, right.right) &&
-               isMirror(left.right, right.left);
+        return checkSymmentry(left.left, right.right) && checkSymmentry(left.right, right.left);
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// class Solution {
+//     public boolean isSymmetric(TreeNode root) {
+//         if (root == null) {
+//             return true;
+//         }
+
+//         return isMirror(root.left, root.right);
+//     }
+
+//     private boolean isMirror(TreeNode left, TreeNode right) {
+
+//         if (left == null && right == null) {
+//             return true;
+//         }
+
+//         if (left == null || right == null) {
+//             return false;
+//         }
+
+//         if (left.val != right.val) {
+//             return false;
+//         }
+
+//         return isMirror(left.left, right.right) &&
+//                isMirror(left.right, right.left);
+//     }
+// }
