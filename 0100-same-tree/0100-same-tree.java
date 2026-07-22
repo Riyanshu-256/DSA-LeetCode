@@ -13,50 +13,48 @@
  *     }
  * }
  */
-// import java.util.*;
-
-// class Solution {
-//     public boolean isSameTree(TreeNode p, TreeNode q) {
-//         // code here
-
-//         List<Integer> list1 = new ArrayList<>();
-//         List<Integer> list2 = new ArrayList<>();
-
-//         preorder(p, list1);
-//         preorder(q, list2);
-
-//         return list1.equals(list2);
-//     }
-
-//     private void preorder(TreeNode root, List<Integer> list) {
-
-//         if (root == null) {
-//             list.add(null);
-//             return;
-//         }
-
-//         list.add(root.val);
-//         preorder(root.left, list);
-//         preorder(root.right, list);
-//     }
-// }
-
+import java.util.*;
 
 class Solution {
-
     public boolean isSameTree(TreeNode p, TreeNode q) {
         // code here
 
-        if (p == null && q == null)
-            return true;
+        List<Integer> listP = new ArrayList<>();
+        List<Integer> listQ = new ArrayList<>();
 
-        if (p == null || q == null)
-            return false;
+        preorder(p, listP);
+        preorder(q, listQ);
 
-        if (p.val != q.val)
-            return false;
+        return listP.equals(listQ);
+    }
 
-        return isSameTree(p.left, q.left) &&
-               isSameTree(p.right, q.right);
+    public void preorder(TreeNode root, List<Integer> list){
+        if(root == null){
+            list.add(null);
+            return;
+        }
+        list.add(root.val);
+        preorder(root.left, list);
+        preorder(root.right, list);
     }
 }
+
+
+// class Solution {
+
+//     public boolean isSameTree(TreeNode p, TreeNode q) {
+//         // code here
+
+//         if (p == null && q == null)
+//             return true;
+
+//         if (p == null || q == null)
+//             return false;
+
+//         if (p.val != q.val)
+//             return false;
+
+//         return isSameTree(p.left, q.left) &&
+//                isSameTree(p.right, q.right);
+//     }
+// }
