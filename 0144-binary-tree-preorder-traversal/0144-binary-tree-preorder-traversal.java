@@ -13,19 +13,38 @@
  *     }
  * }
  */
+// class Solution {
+//     public List<Integer> preorderTraversal(TreeNode root) {
+//         // code here
+
+//         List<Integer> list = new ArrayList<>();
+
+//         if(root == null) return list;
+
+//         list.add(root.val);
+//         list.addAll(preorderTraversal(root.left));
+//         list.addAll(preorderTraversal(root.right));
+
+//         return list;
+//     }
+// }
+
+
 class Solution {
     public List<Integer> preorderTraversal(TreeNode root) {
         // code here
 
-        ArrayList<Integer> ans = new ArrayList<>();
+        List<Integer> list = new ArrayList<>();
+        preorder(root, list);
+        return list;
+    }
 
-        if(root == null){
-            return ans;
-        }
-        ans.add(root.val);
-        ans.addAll(preorderTraversal(root.left));
-        ans.addAll(preorderTraversal(root.right));
+    public void preorder(TreeNode root, List<Integer> list){
 
-        return ans;
+        if(root == null) return;
+        list.add(root.val);
+        preorder(root.left, list);
+        preorder(root.right, list);
+
     }
 }
