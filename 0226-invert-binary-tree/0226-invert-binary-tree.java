@@ -15,28 +15,22 @@
  */
 class Solution {
     public TreeNode invertTree(TreeNode root) {
+        // code here
 
-        if (root == null) {
-            return null;
-        }
-        return traverseTree(root);
+        traverse(root);
+        return root;
     }
 
-    public TreeNode traverseTree(TreeNode root) {
+    public void traverse(TreeNode root){
 
-        if (root == null) {
-            return null;
-        }
+        if(root == null) return;
 
-        // Swap children
         TreeNode temp = root.left;
         root.left = root.right;
         root.right = temp;
 
-        // Traverse left and right
-        traverseTree(root.left);
-        traverseTree(root.right);
+        traverse(root.left);
+        traverse(root.right);
 
-        return root;
     }
 }
