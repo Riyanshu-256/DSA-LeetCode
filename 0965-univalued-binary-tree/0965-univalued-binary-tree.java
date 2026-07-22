@@ -13,17 +13,39 @@
  *     }
  * }
  */
+// class Solution {
+//     public boolean isUnivalTree(TreeNode root) {
+//         // code here
+
+//         return check(root, root.val);
+//     }
+//     private boolean check(TreeNode root, int val){
+//         if(root == null) return true;
+
+//         if(root.val != val) return false;
+
+//         return check(root.left, val) && check(root.right, val);
+//     }
+// }
+
+
 class Solution {
     public boolean isUnivalTree(TreeNode root) {
         // code here
 
-        return check(root, root.val);
+        HashMap<Integer, Integer> map = new HashMap<>();
+        traverse(root, map);
+        return map.size() == 1;
     }
-    private boolean check(TreeNode root, int val){
-        if(root == null) return true;
 
-        if(root.val != val) return false;
+    public void traverse(TreeNode root, HashMap<Integer, Integer> map){
 
-        return check(root.left, val) && check(root.right, val);
+        if(root == null) return;
+        
+        map.put(root.val, map.getOrDefault(root.val, 0)+1);
+
+        traverse(root.left, map);
+        traverse(root.right, map);
+
     }
 }
