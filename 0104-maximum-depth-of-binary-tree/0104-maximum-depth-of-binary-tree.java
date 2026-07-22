@@ -13,13 +13,63 @@
  *     }
  * }
  */
+// class Solution {
+//     public int maxDepth(TreeNode root) {
+//         // code here
+
+//         if (root == null)
+//             return 0;
+
+//         return Math.max(maxDepth(root.left), maxDepth(root.right)) + 1;
+//     }
+// }
+
+
 class Solution {
     public int maxDepth(TreeNode root) {
         // code here
 
-        if (root == null)
-            return 0;
+        List<List<Integer>> ans = new ArrayList<>();
 
-        return Math.max(maxDepth(root.left), maxDepth(root.right)) + 1;
+        if (root == null) {
+            return 0;
+        }
+
+        Queue<TreeNode> q = new LinkedList<>();
+
+        q.offer(root);
+        q.offer(null);
+
+        List<Integer> level = new ArrayList<>();
+
+        while (q.size() > 1) {
+
+            TreeNode curr = q.poll();
+
+            if (curr == null) {
+
+                ans.add(level);
+                level = new ArrayList<>();
+
+                q.offer(null);
+                continue;
+            }
+
+            level.add(curr.val);
+
+            if (curr.left != null) {
+                q.offer(curr.left);
+            }
+
+            if (curr.right != null) {
+                q.offer(curr.right);
+            }
+        }
+
+        // Add the last level
+        ans.add(level);
+
+        return ans.size();
+
     }
 }
