@@ -105,6 +105,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0094-binary-tree-inorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0897-increasing-order-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0897-increasing-order-search-tree) |
 ## Tree
 |  |
 | ------- |
@@ -131,6 +132,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
@@ -154,6 +156,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0543-diameter-of-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
@@ -181,6 +184,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0872-leaf-similar-trees) |
+| [0897-increasing-order-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0965-univalued-binary-tree) |
 ## Sorting
 |  |
@@ -213,6 +217,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0501-find-mode-in-binary-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0897-increasing-order-search-tree) |
 ## Backtracking
 |  |
 | ------- |
