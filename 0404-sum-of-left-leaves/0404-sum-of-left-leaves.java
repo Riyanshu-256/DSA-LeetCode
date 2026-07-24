@@ -20,15 +20,15 @@ class Solution {
 
         if(root == null) return 0;
 
-        int sum = 0;
+        int leftSum = sumOfLeftLeaves(root.left);
+        int rightSum = sumOfLeftLeaves(root.right);
 
-        if(root.left != null && (root.left.left == null && root.left.right == null)){
-            sum += root.left.val;
+        if (root.left != null &&
+            root.left.left == null &&
+            root.left.right == null) {
+            leftSum += root.left.val;
         }
-        sum += sumOfLeftLeaves(root.left);
-        sum += sumOfLeftLeaves(root.right);
 
-        return sum;
-
+        return leftSum + rightSum;
     }
 }
