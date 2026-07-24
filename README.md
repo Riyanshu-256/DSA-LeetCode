@@ -71,6 +71,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1302-deepest-leaves-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -152,6 +153,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0897-increasing-order-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [2236-root-equals-sum-of-children](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -183,6 +185,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0897-increasing-order-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -219,6 +222,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0897-increasing-order-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1302-deepest-leaves-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [2236-root-equals-sum-of-children](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2236-root-equals-sum-of-children) |
 ## Sorting
 |  |
