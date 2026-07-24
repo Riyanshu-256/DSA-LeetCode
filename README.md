@@ -86,6 +86,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0641-design-circular-deque](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0705-design-hashset) |
@@ -107,6 +108,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0897-increasing-order-search-tree) |
@@ -124,6 +126,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0111-minimum-depth-of-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -154,6 +157,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0111-minimum-depth-of-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -184,6 +188,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0111-minimum-depth-of-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0199-binary-tree-right-side-view) |
