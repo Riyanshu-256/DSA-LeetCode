@@ -17,7 +17,7 @@ class Solution {
     public void flatten(TreeNode root) {
         // code here
 
-        if (root == null) return;
+        if(root == null) return;
 
         List<TreeNode> list = new ArrayList<>();
 
@@ -32,6 +32,7 @@ class Solution {
         TreeNode last = list.get(list.size() - 1);
         last.left = null;
         last.right = null;
+
     }
 
     public void preorder(TreeNode root, List<TreeNode> list){
