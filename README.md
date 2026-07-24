@@ -45,6 +45,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | ------- |
 | [0001-two-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0217-contains-duplicate](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0542-01-matrix) |
@@ -77,6 +78,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | ------- |
 | [0001-two-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0217-contains-duplicate) |
@@ -121,6 +123,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0102-binary-tree-level-order-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -183,6 +186,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0102-binary-tree-level-order-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -249,4 +253,5 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
