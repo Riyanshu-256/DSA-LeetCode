@@ -28,6 +28,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0005-longest-palindromic-substring](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0202-happy-number) |
+| [0876-middle-of-the-linked-list](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -99,6 +100,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0641-design-circular-deque](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0706-design-hashmap) |
+| [0876-middle-of-the-linked-list](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
