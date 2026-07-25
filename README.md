@@ -97,6 +97,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0641-design-circular-deque](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0706-design-hashmap) |
@@ -277,4 +278,8 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
