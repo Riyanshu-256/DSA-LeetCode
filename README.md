@@ -28,6 +28,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0005-longest-palindromic-substring](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0202-happy-number) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -70,6 +71,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0542-01-matrix) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0965-univalued-binary-tree) |
@@ -90,6 +92,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0217-contains-duplicate](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0508-most-frequent-subtree-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0508-most-frequent-subtree-sum) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0706-design-hashmap) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -162,6 +165,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -203,6 +207,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -247,6 +252,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -294,6 +300,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0501-find-mode-in-binary-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
