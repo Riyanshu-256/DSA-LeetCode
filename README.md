@@ -109,6 +109,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -365,6 +366,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -386,6 +388,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -416,4 +419,12 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
