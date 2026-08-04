@@ -121,6 +121,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0641-design-circular-deque](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0641-design-circular-deque) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0706-design-hashmap) |
 ## Hash Function
@@ -186,6 +187,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0872-leaf-similar-trees) |
@@ -284,6 +286,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0872-leaf-similar-trees) |
@@ -341,6 +344,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0938-range-sum-of-bst) |
@@ -374,6 +378,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
 |  |
@@ -391,4 +396,8 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0324-wiggle-sort-ii) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
