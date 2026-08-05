@@ -61,6 +61,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0706-design-hashmap](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0706-design-hashmap) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1046-last-stone-weight](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1046-last-stone-weight) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Breadth-First Search
 |  |
@@ -392,6 +393,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0215-kth-largest-element-in-an-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1046-last-stone-weight) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
 |  |
