@@ -1,6 +1,7 @@
 import java.util.PriorityQueue;
 
 class KthLargest {
+
     private PriorityQueue<Integer> minHeap;
     private int k;
 
@@ -24,6 +25,11 @@ class KthLargest {
     }
 }
 
+/**
+ * Your KthLargest object will be instantiated and called as such:
+ * KthLargest obj = new KthLargest(k, nums);
+ * int param_1 = obj.add(val);
+ */
 /**
  * Your KthLargest object will be instantiated and called as such:
  * KthLargest obj = new KthLargest(k, nums);
