@@ -28,6 +28,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0005-longest-palindromic-substring](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0202-happy-number) |
+| [0295-find-median-from-data-stream](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## String
@@ -126,6 +127,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0295-find-median-from-data-stream](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0641-design-circular-deque](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0641-design-circular-deque) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0705-design-hashset) |
@@ -310,6 +312,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0217-contains-duplicate) |
+| [0295-find-median-from-data-stream](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -395,6 +398,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -422,6 +426,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
