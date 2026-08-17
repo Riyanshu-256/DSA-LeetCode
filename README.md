@@ -57,6 +57,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0228-summary-ranges) |
@@ -365,6 +366,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | ------- |
 | [0055-jump-game](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0135-candy) |
 | [0324-wiggle-sort-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0409-longest-palindrome](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
