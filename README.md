@@ -360,6 +360,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | ------- |
 | [0202-happy-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [2591-distribute-money-to-maximum-children](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2591-distribute-money-to-maximum-children) |
 ## Binary Search
 |  |
 | ------- |
@@ -383,6 +384,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0763-partition-labels](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0860-lemonade-change) |
+| [2591-distribute-money-to-maximum-children](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2591-distribute-money-to-maximum-children) |
 ## Binary Search Tree
 |  |
 | ------- |
