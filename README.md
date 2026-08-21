@@ -37,6 +37,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0257-binary-tree-paths](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
+| [0306-additive-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0306-additive-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0409-longest-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -421,6 +422,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0095-unique-binary-search-trees-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
+| [0306-additive-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0306-additive-number) |
 ## Divide and Conquer
 |  |
 | ------- |
