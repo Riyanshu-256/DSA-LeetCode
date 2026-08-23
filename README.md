@@ -57,6 +57,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0001-two-sum) |
+| [0040-combination-sum-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -418,6 +419,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0047-permutations-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0113-path-sum-ii) |
