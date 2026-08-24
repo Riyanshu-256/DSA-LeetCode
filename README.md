@@ -84,6 +84,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0973-k-closest-points-to-origin](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1046-last-stone-weight) |
+| [1219-path-with-maximum-gold](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Breadth-First Search
 |  |
@@ -113,6 +114,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0542-01-matrix) |
+| [1219-path-with-maximum-gold](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1219-path-with-maximum-gold) |
 ## Hash Table
 |  |
 | ------- |
@@ -425,6 +427,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0113-path-sum-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0306-additive-number) |
+| [1219-path-with-maximum-gold](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1219-path-with-maximum-gold) |
 ## Divide and Conquer
 |  |
 | ------- |
