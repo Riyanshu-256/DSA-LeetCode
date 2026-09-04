@@ -51,6 +51,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0095-unique-binary-search-trees-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0542-01-matrix) |
@@ -377,6 +378,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0202-happy-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0973-k-closest-points-to-origin](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2591-distribute-money-to-maximum-children) |
 ## Binary Search
@@ -437,6 +439,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0113-path-sum-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0306-additive-number) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0494-target-sum) |
 | [1219-path-with-maximum-gold](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1219-path-with-maximum-gold) |
 ## Divide and Conquer
