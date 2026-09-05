@@ -88,6 +88,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1046-last-stone-weight) |
 | [1219-path-with-maximum-gold](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1219-path-with-maximum-gold) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Breadth-First Search
 |  |
@@ -367,6 +368,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0767-reorganize-string](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Counting
 |  |
 | ------- |
