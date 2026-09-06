@@ -108,6 +108,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0542-01-matrix) |
+| [0617-merge-two-binary-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -229,6 +230,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -279,6 +281,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -332,6 +335,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
