@@ -90,6 +90,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [1219-path-with-maximum-gold](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -123,6 +124,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0542-01-matrix) |
 | [1219-path-with-maximum-gold](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1219-path-with-maximum-gold) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -557,6 +559,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | ------- |
 | [0207-course-schedule](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0310-minimum-height-trees) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
 |  |
 | ------- |
