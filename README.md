@@ -43,6 +43,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0692-top-k-frequent-words](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0767-reorganize-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0940-distinct-subsequences-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,6 +56,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0435-non-overlapping-intervals](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0542-01-matrix) |
+| [0940-distinct-subsequences-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0940-distinct-subsequences-ii) |
 ## Array
 |  |
 | ------- |
