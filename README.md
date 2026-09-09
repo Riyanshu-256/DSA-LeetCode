@@ -116,6 +116,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0797-all-paths-from-source-to-target](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -297,6 +298,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0662-maximum-width-of-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0797-all-paths-from-source-to-target](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0897-increasing-order-search-tree) |
@@ -462,6 +464,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0306-additive-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0306-additive-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0494-target-sum) |
+| [0797-all-paths-from-source-to-target](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1219-path-with-maximum-gold](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1219-path-with-maximum-gold) |
 ## Divide and Conquer
 |  |
@@ -563,6 +566,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | ------- |
 | [0207-course-schedule](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0310-minimum-height-trees) |
+| [0797-all-paths-from-source-to-target](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
@@ -582,6 +586,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0207-course-schedule) |
+| [0797-all-paths-from-source-to-target](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 ## Union-Find
 |  |
 | ------- |
