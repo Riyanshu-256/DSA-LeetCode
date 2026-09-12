@@ -29,6 +29,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0160-intersection-of-two-linked-lists](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0763-partition-labels](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -80,6 +81,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0542-01-matrix) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0641-design-circular-deque](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0641-design-circular-deque) |
 | [0692-top-k-frequent-words](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0705-design-hashset) |
@@ -196,6 +198,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0144-binary-tree-preorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0897-increasing-order-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
@@ -385,6 +388,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0406-queue-reconstruction-by-height](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0692-top-k-frequent-words](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0767-reorganize-string](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0767-reorganize-string) |
@@ -425,6 +429,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0409-longest-palindrome](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0763-partition-labels](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0860-lemonade-change) |
@@ -490,6 +495,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 ## Monotonic Stack
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Heap (Priority Queue)
 |  |
