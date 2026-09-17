@@ -157,6 +157,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0763-partition-labels](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0767-reorganize-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
@@ -314,6 +315,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0872-leaf-similar-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0938-range-sum-of-bst) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0965-univalued-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -586,6 +588,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0207-course-schedule](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0310-minimum-height-trees) |
 | [0797-all-paths-from-source-to-target](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1791-find-center-of-star-graph](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2285-maximum-total-importance-of-roads) |
@@ -611,9 +614,14 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 ## Union-Find
 |  |
 | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## DP on Trees
 |  |
 | ------- |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
