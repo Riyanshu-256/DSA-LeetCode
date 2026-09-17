@@ -57,6 +57,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0435-non-overlapping-intervals](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0940-distinct-subsequences-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0940-distinct-subsequences-ii) |
 ## Array
 |  |
@@ -121,6 +122,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0662-maximum-width-of-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0965-univalued-binary-tree) |
@@ -310,6 +312,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0872-leaf-similar-trees) |
@@ -521,6 +524,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0692-top-k-frequent-words](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0767-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1046-last-stone-weight) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2285-maximum-total-importance-of-roads) |
@@ -587,6 +591,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | ------- |
 | [0207-course-schedule](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0310-minimum-height-trees) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1791-find-center-of-star-graph](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1791-find-center-of-star-graph) |
@@ -624,4 +629,8 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
