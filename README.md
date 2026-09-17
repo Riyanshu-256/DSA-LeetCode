@@ -126,6 +126,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0965-univalued-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1302-deepest-leaves-sum) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -156,6 +157,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0763-partition-labels](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0767-reorganize-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Linked List
 |  |
@@ -264,6 +266,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -316,6 +319,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -608,4 +612,8 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+## DP on Trees
+|  |
+| ------- |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 <!---LeetCode Topics End-->
