@@ -119,6 +119,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -308,6 +309,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -594,6 +596,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | ------- |
 | [0207-course-schedule](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0310-minimum-height-trees) |
+| [0547-number-of-provinces](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -622,6 +625,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## DP on Trees
