@@ -125,6 +125,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0797-all-paths-from-source-to-target) |
@@ -318,6 +319,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0662-maximum-width-of-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0797-all-paths-from-source-to-target) |
@@ -532,6 +534,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0767-reorganize-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -601,6 +604,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0207-course-schedule](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0207-course-schedule) |
 | [0310-minimum-height-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0802-find-eventual-safe-states) |
@@ -645,6 +649,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Kosaraju's Algorithm
 |  |
@@ -654,4 +659,8 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
