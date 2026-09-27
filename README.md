@@ -52,6 +52,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -70,6 +71,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0040-combination-sum-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0088-merge-sorted-array) |
@@ -513,6 +515,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
