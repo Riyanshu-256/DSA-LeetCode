@@ -86,6 +86,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0215-kth-largest-element-in-an-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0228-summary-ranges) |
+| [0238-product-of-array-except-self](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -678,4 +679,8 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0743-network-delay-time) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
