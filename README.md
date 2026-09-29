@@ -103,6 +103,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0697-degree-of-an-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0706-design-hashmap) |
+| [0724-find-pivot-index](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0733-flood-fill) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0860-lemonade-change](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0860-lemonade-change) |
@@ -683,4 +684,5 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
