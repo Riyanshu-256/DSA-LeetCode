@@ -45,6 +45,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0257-binary-tree-paths](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0306-additive-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0409-longest-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0763-partition-labels) |
@@ -236,6 +237,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0144-binary-tree-preorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0402-remove-k-digits](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0897-increasing-order-search-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -479,6 +481,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0134-gas-station](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0135-candy) |
 | [0324-wiggle-sort-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0324-wiggle-sort-ii) |
+| [0402-remove-k-digits](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -551,6 +554,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Heap (Priority Queue)
