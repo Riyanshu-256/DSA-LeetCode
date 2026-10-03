@@ -182,6 +182,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0409-longest-palindrome](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0508-most-frequent-subtree-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0508-most-frequent-subtree-sum) |
+| [0652-find-duplicate-subtrees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0697-degree-of-an-array) |
@@ -284,6 +285,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0538-convert-bst-to-greater-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0652-find-duplicate-subtrees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -340,6 +342,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0543-diameter-of-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0652-find-duplicate-subtrees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -404,6 +407,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0538-convert-bst-to-greater-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0652-find-duplicate-subtrees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
