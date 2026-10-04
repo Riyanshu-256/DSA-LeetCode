@@ -77,6 +77,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0040-combination-sum-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0066-plus-one) |
@@ -161,6 +162,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0733-flood-fill) |
@@ -462,6 +464,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
