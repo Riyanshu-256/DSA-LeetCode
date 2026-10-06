@@ -130,6 +130,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3731-find-missing-elements](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3731-find-missing-elements) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Breadth-First Search
 |  |
@@ -205,6 +206,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3731-find-missing-elements](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -464,6 +466,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2285-maximum-total-importance-of-roads) |
+| [3731-find-missing-elements](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
