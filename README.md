@@ -76,6 +76,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0001-two-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0047-permutations-ii) |
@@ -491,6 +492,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
