@@ -94,6 +94,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0134-gas-station](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -496,6 +497,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | ------- |
 | [0035-search-insert-position](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
