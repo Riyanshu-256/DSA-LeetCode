@@ -1,23 +1,21 @@
-import java.util.Arrays;
+import java.util.*;
 
 class Solution {
     public int kthSmallest(int[][] matrix, int k) {
-
+        //  code here
+        
         int n = matrix.length;
-        int[] temp = new int[n * n];
 
-        int idx = 0;
+        ArrayList<Integer> list = new ArrayList<>();
 
-        // Copy matrix into 1D array
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
-                temp[idx++] = matrix[i][j];
+                list.add(matrix[i][j]);
             }
         }
 
-        // Sort the array
-        Arrays.sort(temp);
+        Collections.sort(list);
 
-        return temp[k - 1];
+        return list.get(k - 1);
     }
 }
