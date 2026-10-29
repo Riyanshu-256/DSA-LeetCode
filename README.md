@@ -71,6 +71,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0494-target-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0940-distinct-subsequences-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0940-distinct-subsequences-ii) |
 ## Array
@@ -129,6 +130,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0706-design-hashmap](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0860-lemonade-change](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0905-sort-array-by-parity) |
