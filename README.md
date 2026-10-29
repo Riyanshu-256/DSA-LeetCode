@@ -69,6 +69,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0357-count-numbers-with-unique-digits](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0494-target-sum) |
+| [0509-fibonacci-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0940-distinct-subsequences-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0940-distinct-subsequences-ii) |
@@ -506,6 +507,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0066-plus-one](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0509-fibonacci-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2591-distribute-money-to-maximum-children) |
 ## Binary Search
@@ -603,6 +605,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0509-fibonacci-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 ## Iterator
 |  |
 | ------- |
@@ -797,4 +800,8 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
