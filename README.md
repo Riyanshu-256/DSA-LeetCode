@@ -67,6 +67,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0213-house-robber-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0494-target-sum) |
@@ -103,6 +104,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0164-maximum-gap](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0228-summary-ranges) |
