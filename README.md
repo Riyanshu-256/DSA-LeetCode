@@ -153,6 +153,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3731-find-missing-elements](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Breadth-First Search
@@ -516,6 +517,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0509-fibonacci-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2591-distribute-money-to-maximum-children) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
