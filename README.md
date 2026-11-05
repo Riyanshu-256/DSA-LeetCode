@@ -46,6 +46,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0257-binary-tree-paths) |
 | [0306-additive-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0306-additive-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -276,6 +277,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -817,4 +819,8 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0509-fibonacci-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
