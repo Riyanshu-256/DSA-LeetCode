@@ -119,6 +119,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0442-find-all-duplicates-in-an-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -514,6 +515,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0066-plus-one](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2591-distribute-money-to-maximum-children) |
