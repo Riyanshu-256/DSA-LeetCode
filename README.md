@@ -152,6 +152,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1539-kth-missing-positive-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -506,6 +507,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2285-maximum-total-importance-of-roads) |
 | [3731-find-missing-elements](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3731-find-missing-elements) |
@@ -543,6 +545,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0704-binary-search](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
