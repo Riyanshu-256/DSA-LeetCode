@@ -150,6 +150,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [1254-number-of-closed-islands](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1470-shuffle-the-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1929-concatenation-of-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
