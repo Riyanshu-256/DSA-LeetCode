@@ -147,6 +147,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1046-last-stone-weight](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1046-last-stone-weight) |
 | [1219-path-with-maximum-gold](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1219-path-with-maximum-gold) |
+| [1254-number-of-closed-islands](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1539-kth-missing-positive-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1539-kth-missing-positive-number) |
@@ -192,6 +193,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -203,6 +205,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0542-01-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0733-flood-fill) |
 | [1219-path-with-maximum-gold](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1219-path-with-maximum-gold) |
+| [1254-number-of-closed-islands](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
@@ -406,6 +409,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0965-univalued-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1302-deepest-leaves-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -747,6 +751,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | ------- |
 | [0547-number-of-provinces](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0547-number-of-provinces) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1254-number-of-closed-islands](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## DP on Trees
 |  |
