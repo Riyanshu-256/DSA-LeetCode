@@ -100,6 +100,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0164-maximum-gap) |
@@ -289,6 +290,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -526,6 +528,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | ------- |
 | [0048-rotate-image](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
