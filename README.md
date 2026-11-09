@@ -38,6 +38,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0763-partition-labels](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0763-partition-labels) |
+| [0825-friends-of-appropriate-ages](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0825-friends-of-appropriate-ages) |
 | [0876-middle-of-the-linked-list](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0986-interval-list-intersections](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0986-interval-list-intersections) |
@@ -142,6 +143,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0733-flood-fill](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0825-friends-of-appropriate-ages](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0825-friends-of-appropriate-ages) |
 | [0860-lemonade-change](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -512,6 +514,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0767-reorganize-string](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0791-custom-sort-string) |
+| [0825-friends-of-appropriate-ages](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0825-friends-of-appropriate-ages) |
 | [0905-sort-array-by-parity](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -554,6 +557,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0704-binary-search) |
+| [0825-friends-of-appropriate-ages](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0825-friends-of-appropriate-ages) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
