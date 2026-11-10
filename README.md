@@ -146,6 +146,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0825-friends-of-appropriate-ages](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0825-friends-of-appropriate-ages) |
 | [0860-lemonade-change](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0973-k-closest-points-to-origin](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0986-interval-list-intersections) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -516,6 +517,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0791-custom-sort-string](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0791-custom-sort-string) |
 | [0825-friends-of-appropriate-ages](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0825-friends-of-appropriate-ages) |
 | [0905-sort-array-by-parity](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0973-k-closest-points-to-origin](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -532,6 +534,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0387-first-unique-character-in-a-string](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0767-reorganize-string) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 ## Math
 |  |
 | ------- |
@@ -585,6 +588,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0763-partition-labels](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0860-lemonade-change) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2591-distribute-money-to-maximum-children) |
