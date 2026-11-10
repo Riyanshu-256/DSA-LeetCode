@@ -149,6 +149,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0973-k-closest-points-to-origin](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0986-interval-list-intersections) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1046-last-stone-weight](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1046-last-stone-weight) |
@@ -519,6 +520,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0905-sort-array-by-parity](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0973-k-closest-points-to-origin](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -589,6 +591,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0767-reorganize-string](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0860-lemonade-change) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [2285-maximum-total-importance-of-roads](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2285-maximum-total-importance-of-roads) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2591-distribute-money-to-maximum-children) |
