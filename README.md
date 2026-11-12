@@ -43,6 +43,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0905-sort-array-by-parity](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0986-interval-list-intersections](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0986-interval-list-intersections) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## String
 |  |
@@ -61,6 +62,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0791-custom-sort-string](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0791-custom-sort-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3612-process-string-with-special-operations-i) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Dynamic Programming
 |  |
 | ------- |
