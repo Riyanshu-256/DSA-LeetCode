@@ -42,6 +42,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0876-middle-of-the-linked-list](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0986-interval-list-intersections](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0986-interval-list-intersections) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## String
 |  |
@@ -157,6 +158,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [1219-path-with-maximum-gold](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1470-shuffle-the-array) |
@@ -252,6 +254,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1331-rank-transform-of-an-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -527,6 +530,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -568,6 +572,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0540-single-element-in-a-sorted-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0704-binary-search) |
 | [0825-friends-of-appropriate-ages](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0825-friends-of-appropriate-ages) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
