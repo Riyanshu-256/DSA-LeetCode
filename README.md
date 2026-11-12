@@ -156,6 +156,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [1046-last-stone-weight](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1046-last-stone-weight) |
 | [1219-path-with-maximum-gold](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1331-rank-transform-of-an-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1470-shuffle-the-array) |
@@ -250,6 +251,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0791-custom-sort-string](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0791-custom-sort-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1331-rank-transform-of-an-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -524,6 +526,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0973-k-closest-points-to-origin](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1331-rank-transform-of-an-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
