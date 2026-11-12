@@ -174,6 +174,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3731-find-missing-elements](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3866-first-unique-even-element](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3866-first-unique-even-element) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Breadth-First Search
@@ -261,6 +262,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3731-find-missing-elements](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3731-find-missing-elements) |
+| [3866-first-unique-even-element](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3866-first-unique-even-element) |
 ## Linked List
 |  |
 | ------- |
@@ -546,6 +548,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0692-top-k-frequent-words](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0767-reorganize-string) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [3866-first-unique-even-element](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
 | ------- |
