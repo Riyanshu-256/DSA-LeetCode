@@ -59,6 +59,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | [0767-reorganize-string](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0791-custom-sort-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/0940-distinct-subsequences-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -686,6 +687,7 @@ This is part of my continuous effort to build strong problem-solving skills, ess
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/1929-concatenation-of-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/Riyanshu-256/DSA-LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
